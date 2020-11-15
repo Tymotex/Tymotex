@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Deployed Projects 💻:
+- <a href="https://techsuite.dev">Techsuite</a>
+- <a href="https://data-structures.xyz">Interactive Data Structures and Algorithms</a>
+- <a href="https://tymotex.github.io/cosmica/">Cosmica</a>
+
 <!--
 **Tymotex/Tymotex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
