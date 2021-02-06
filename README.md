@@ -1,6 +1,7 @@
 ### Hi there 👋
+See more about me <a href="https://timz.dev">here</a>.
 
-#### Deployed Projects 💻:
+#### Some Deployed Projects 💻:
 - <a href="https://techsuite.dev">Techsuite</a>
 - <a href="https://data-structures.xyz">Interactive Data Structures and Algorithms</a>
 - <a href="https://tymotex.github.io/cosmica/">Cosmica</a>
