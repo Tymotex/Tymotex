@@ -3,7 +3,7 @@ See more about me <a href="https://timz.dev">here</a>.
 
 #### Some Deployed Projects 💻:
 - <a href="https://techsuite.dev">Techsuite</a>
-- <a href="https://data-structures.xyz">Interactive Data Structures and Algorithms</a>
+- <a href="https://data-structures.xyz">Tactile DS</a>
 - <a href="https://tymotex.github.io/Cosmica/">Cosmica</a>
 
 <!--
