@@ -5,6 +5,8 @@ See more about me <a href="https://timz.dev">here</a>.
 - <a href="https://techsuite.dev">Techsuite</a>
 - <a href="https://data-structures.xyz">Tactile DS</a>
 - <a href="https://tymotex.github.io/Cosmica/">Cosmica</a>
+- <a href="https://galactic-ed.xyz/">GalacticEd</a>
+- <a href="https://employ-me.netlify.app/">Employ.me</a>
 
 <!--
 **Tymotex/Tymotex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
