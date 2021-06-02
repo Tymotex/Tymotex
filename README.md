@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Visit my portfolio site <a href="https://timz.dev">here</a>.
+Visit my portfolio site <strong><a href="https://timz.dev">here</a></strong>.
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/timz-seng"> LinkedIn</a>
 
 #### Some Deployed Projects 💻:
-
+See more of my projects at <a href="https://timz.dev/home/projects">timz.dev</a>.
 -   <a href="https://data-structures.xyz">Tactile DS</a> &mdash; an interactive shell-like data structure and algorithm visualiser
 -   <a href="https://techsuite.dev">Techsuite</a> &mdash; a collaboration and social networking app built for developers
 -   <a href="https://tymotex.github.io/Cosmica/">Cosmica</a> &mdash; a sci-fi strategy game
