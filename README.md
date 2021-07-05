@@ -15,7 +15,7 @@ See more of my projects at <a href="https://timz.dev/home/projects">timz.dev</a>
 
 #### Metrics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Top languages. Ignore html, scss, jupyter notebook, less, css -->
 
