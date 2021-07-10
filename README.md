@@ -10,8 +10,8 @@ See more of my projects at <a href="https://timz.dev/home/projects">timz.dev/hom
 -   <a href="https://techsuite.dev">Techsuite</a> &mdash; a collaboration and social networking app built for developers
 -   <a href="https://tymotex.github.io/Cosmica/">Cosmica</a> &mdash; a sci-fi strategy game
 -   <a href="https://employ-me.netlify.app/">Employ.me</a> &mdash; an automated job application tracker 
--   <a href="https://galactic-ed.xyz/">GalacticEd</a> &mdash; an intelligent educational platform to assist with early intervention for children with ASD
-
+-   <a href="https://galactic-ed.xyz/">GalacticEd</a> &mdash; an intelligent educational platform to assist with early intervention for children with ASD [Work in Progress]
+-   <a href="https://structs.netlify.app/">Structs.sh &mdash; an interactive data structure and algorithms visualiser and a unified collection of computer science resources, delivered for university students [Work in Progress]</a>
 
 #### Metrics
 
