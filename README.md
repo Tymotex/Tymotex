@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Visit my portfolio site <strong><a href="https://timz.dev">here</a></strong>.
-
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/timz-seng"> LinkedIn</a>
+<!-- 
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/timz-seng"> LinkedIn</a> -->
 
 #### Some Deployed Projects 💻:
 See more of my projects at <a href="https://timz.dev/home/projects">timz.dev</a>.
