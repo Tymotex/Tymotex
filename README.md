@@ -19,8 +19,8 @@ See more of my projects at <a href="https://timz.dev/home/projects">timz.dev/hom
 
 <!-- Top languages. Ignore html, scss, jupyter notebook, less, css -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymotex&hide=html,scss,jupyter%20notebook,css,less&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymotex&hide=html,scss,jupyter%20notebook,css,less&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Technologies
