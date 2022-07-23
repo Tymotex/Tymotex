@@ -9,41 +9,29 @@ for more about me.
 [![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Tymotex&langs_count=5&custom_title=Top%205%20Languages&hide=Other&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 561 Contributions in the Year 2022
- > 
-> 📦 899.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    246 commits    ███████░░░░░░░░░░░░░░░░░░   28.15% 
-🌆 Daytime    250 commits    ███████░░░░░░░░░░░░░░░░░░   28.6% 
-🌃 Evening    366 commits    ██████████░░░░░░░░░░░░░░░   41.88% 
+🌞 Morning    250 commits    ███████░░░░░░░░░░░░░░░░░░   28.47% 
+🌆 Daytime    250 commits    ███████░░░░░░░░░░░░░░░░░░   28.47% 
+🌃 Evening    366 commits    ██████████░░░░░░░░░░░░░░░   41.69% 
 🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       152 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Tuesday      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
-Wednesday    85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
-Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
-Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
-Saturday     170 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.45% 
-Sunday       198 commits    █████░░░░░░░░░░░░░░░░░░░░   22.65%
+Monday       152 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
+Tuesday      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
+Wednesday    85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+Saturday     174 commits    █████░░░░░░░░░░░░░░░░░░░░   19.82% 
+Sunday       198 commits    █████░░░░░░░░░░░░░░░░░░░░   22.55%
 
 ```
 
@@ -51,8 +39,6 @@ Sunday       198 commits    █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Australia/Melbourne
-
 💬 Programming Languages: 
 TypeScript               5 hrs 7 mins        ███████████████░░░░░░░░░░   60.19% 
 SCSS                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
@@ -62,11 +48,6 @@ HTML                     11 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  8 hrs 30 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-1-timz.dev               4 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.84% 
-wiki                     3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.37% 
-tym                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.79%
 
 💻 Operating System: 
 Linux                    8 hrs 30 mins       █████████████████████████   100.0%
@@ -85,12 +66,8 @@ HTML                     4 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Tymotex/Tymotex/master/charts/bar_graph.png) 
-
-
- Last Updated on 23/07/2022 00:20:32 UTC
+ Last Updated on 23/07/2022 00:46:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Tymotex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats) -->
