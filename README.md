@@ -38,20 +38,18 @@ Sunday       223 commits    ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 41 mins       ██████████████████████░░░   88.14% 
-SCSS                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/10/2022 14:37:37 UTC
+ Last Updated on 26/10/2022 14:25:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Tymotex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats) -->
