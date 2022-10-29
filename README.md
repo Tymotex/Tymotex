@@ -9,7 +9,7 @@ for more about me.
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Tymotex&langs_count=5&custom_title=Top%205%20Languages&hide=Other&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%204%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -38,18 +38,19 @@ Sunday       223 commits    ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 40 mins        █████████████████████████   99.92% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 40 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 40 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 28/10/2022 14:26:13 UTC
+ Last Updated on 29/10/2022 14:19:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Tymotex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats) -->
