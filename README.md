@@ -11,8 +11,45 @@ for more about me.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C114%20hrs%2054%20mins-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 12/12/2022 14:15:57 UTC
+```text
+🌞 Morning    266 commits    ████████░░░░░░░░░░░░░░░░░   32.84% 
+🌆 Daytime    255 commits    ███████░░░░░░░░░░░░░░░░░░   31.48% 
+🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   31.6% 
+🌙 Night      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+Tuesday      78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Wednesday    86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Friday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Saturday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Sunday       196 commits    ██████░░░░░░░░░░░░░░░░░░░   24.2%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 13/12/2022 14:16:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Tymotex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats) -->
