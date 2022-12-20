@@ -9,7 +9,7 @@ for more about me.
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Tymotex&langs_count=5&custom_title=Top%205%20Languages&hide=Other&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2025%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -38,22 +38,22 @@ Sunday       199 commits    ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.75% 
-C++                      1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.56% 
-MDX                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-SCSS                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87%
+C++                      3 hrs 49 mins       ████████████░░░░░░░░░░░░░   50.97% 
+TypeScript               2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.29% 
+MDX                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
+SCSS                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
 
 🔥 Editors: 
-VS Code                  5 hrs 32 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 30 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 hrs 32 mins       █████████████████████████   100.0%
+Linux                    7 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/12/2022 14:15:22 UTC
+ Last Updated on 20/12/2022 14:16:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Tymotex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tymotex)](https://github.com/anuraghazra/github-readme-stats) -->
